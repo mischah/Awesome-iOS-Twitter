@@ -45,4 +45,4 @@ Feel free to add other follow worthy Twitter accounts.
 # Contributing and License
 
 * [CONTRIBUTING.md](https://github.com/carolanitz/Awesome-iOS-Twitter/blob/master/CONTRIBUTING.md)
-* Distributed under the MIT license. See LICENSE for more information.
+* To the extent possible under law, Carola Nitz has waived all copyright and related or neighboring rights to this work. See LICENSE for more information.
